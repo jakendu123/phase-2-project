@@ -76,7 +76,7 @@ export default function Card({ onSelectCause }) {
                   className="btn btn-primary"
                   onClick={() => onSelectCause(cause)}
                 >
-                  Donate Now
+                  Donate 
                 </button>
               </div>
             </div>
