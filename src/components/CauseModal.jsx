@@ -1,4 +1,3 @@
-import React from "react";
 import DonationForm from "./DonationForm";
 
 export default function CauseModal({
@@ -25,8 +24,8 @@ export default function CauseModal({
             ></button>
           </div>
           <div className="modal-body">
-                      <p>{cause.desc}</p>
-                      <p>{cause.about}</p>
+            <p>{cause.desc}</p>
+            <p>{cause.about}</p>
             <DonationForm
               selectedCause={cause}
               onDonate={onDonate}

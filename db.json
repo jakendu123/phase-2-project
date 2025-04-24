@@ -23,6 +23,60 @@
       "name": "john",
       "amount": 200,
       "category": "Hunger in N.E Kenya"
+    },
+    {
+      "id": "d48a",
+      "name": "dennis ",
+      "amount": 1600,
+      "category": "Hunger in N.E Kenya"
+    },
+    {
+      "id": "125e",
+      "name": "fredrick okoth",
+      "amount": 5000000,
+      "category": "Floods in Kisumu"
+    },
+    {
+      "id": "7c89",
+      "name": "lewis ",
+      "amount": 2000000,
+      "category": "Red Cross"
+    },
+    {
+      "id": "ca87",
+      "name": "eshter ",
+      "amount": 4000000,
+      "category": "Hunger in N.E Kenya"
+    },
+    {
+      "id": "00f0",
+      "name": "sam",
+      "amount": 1500000,
+      "category": "Orphanages"
+    },
+    {
+      "id": "3477",
+      "name": "john",
+      "amount": 1000,
+      "category": "Floods in Kisumu"
+    },
+    {
+      "id": "4ddc",
+      "name": "you",
+      "amount": 17000,
+      "category": "Floods in Kisumu"
+    },
+    {
+      "id": "af4f",
+      "name": "james ",
+      "amount": 100000,
+      "category": "Hunger in N.E Kenya"
+    },
+    {
+      "id": "5640",
+      "name": "fredrick okoth",
+      "amount": 1000000,
+      "category": "Red Cross"
     }
   ],
   "totalAmount": 1500
